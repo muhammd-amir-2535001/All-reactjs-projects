@@ -1,0 +1,143 @@
+.myform {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 32rem;
+}
+
+.mydiv {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 1.25rem;
+  width: 100%;
+  margin-top: 2.5rem;
+}
+
+.myinput {
+  padding: 0.75rem;
+  color: #000;
+  width: 100%;
+  border-radius: 0.125rem;
+  outline: none;
+}
+
+.myspan {
+  padding: 0.75rem 0.75rem 1.25rem 1.25rem;
+  cursor: pointer;
+  background-color: white;
+  color: black;
+  height: 15px;
+  width: 100px;
+  border: #000 solid 2px;
+  margin-right: -86px;
+}
+
+.myul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.myc {
+  color: #f87171;
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 1.25rem;
+}
+
+.myd {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75rem;
+  align-items: center;
+  border-radius: 0.125rem;
+  transition-property: background-color, background-color;
+  transition-duration: 0.3s;
+  margin-left: -50px;
+}
+
+.mye {
+  display: flex;
+  justify-content: space-between;
+  gap: 0.75rem;
+  align-items: center;
+  flex: 1;
+}
+
+.myf {
+  width: 1.5rem;
+  height: 1.5rem;
+  margin-left: -83px;
+}
+
+.myh {
+  flex: 1;
+  background-color: white;
+  height: 41px;
+  width: 100%;
+  margin-left: 0px;
+}
+
+.myg {
+  text-decoration: line-through;
+}
+
+.myh {
+  flex: 1;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.myi {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.myj {
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  border-radius: 50%;
+  
+}
+
+.myk {
+  cursor: pointer;
+  height: 40px;
+  width: 50px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 50px;
+}
+
+.myinput {
+  border: #000 solid 2px;
+  height: 23px;
+  width: 600px;
+}
+
+.myi {
+  height: 50px;
+    width: 50px;
+    background-color: white;
+    padding-left: 25px;
+    padding-right: -1px;
+    margin-left: 18px;
+    gap: 28px;
+}
+
+.myk {
+  height: 50px;
+  width: 50px;
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 20px;
+}

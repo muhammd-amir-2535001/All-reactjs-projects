@@ -1,0 +1,31 @@
+.classA{
+  background-color: #14d224;
+  min-height: 100vh;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+.classB{
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+.classC{
+ 
+  text-align: center; 
+  
+}
+.classD{
+margin-bottom: 15px;
+
+}
+.classE{
+  display: flex;
+  flex-wrap: wrap; 
+  gap: 12px;
+}
+.classF{
+  /* width: 100%; */
+  background-color: white;
+  border: black 2px solid;
+}
